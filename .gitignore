@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+api/routes/__pycache__/
+api/models/__pycache__/
+templates/public/*/
+venv
+api/config/config.py
+
